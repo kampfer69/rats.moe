@@ -1,0 +1,61 @@
+body {
+	max-width:40em;
+	width:90vw;
+	margin: auto;
+	background-color:floralwhite;
+	font-family:"Georgia", serif;
+}
+
+h1 {
+	color:saddlebrown;
+	text-align:center;
+	font-size:2.5em;
+	padding-top:1em;
+}
+
+h2 {
+	color:dimgray;
+	text-align:center;
+	font-size:1.2em;
+	padding-top:0em;
+}
+
+h3 {
+	font-size:1.3em;
+	padding-top:2em;
+}
+
+h4 {
+	color:dimgray;
+	font-size:1em;
+	padding-top:0em;
+}
+
+h5 {
+	text-align:center;
+	font-size:1em;
+	padding-top:0em;
+}
+
+pre {
+	background-color:#EFF0F1;
+	border-style:solid;
+	border-width:1px;
+	border-color:#9A97A3;
+	border-radius:5px;
+	color:#393318;
+	display:block;
+	font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
+	font-size:1em;
+	height:60vh;
+	overflow:auto;
+	padding:12px 8px;
+}
+
+#karin {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:50vw;
+	z-index:-1;
+}
